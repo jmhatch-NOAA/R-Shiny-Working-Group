@@ -2,7 +2,7 @@
 
 Inspiration for this example was taken from [MinutePhysics](https://www.youtube.com/watch?v=54XLXg4fYsc) and [Aatish Bhatia](http://aatishb.com/covidtrends/).
 
-Plots were created on the morning of June 10, 2020.
+Plots were created on the morning of June 15, 2020.
 
 The .R file can be found [here](https://github.com/jmhatch/R-Shiny-Working-Group/blob/master/materials/ggplot2_example/R/ggplot2_example.R).
 
