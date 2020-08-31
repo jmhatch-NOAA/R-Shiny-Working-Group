@@ -8,3 +8,4 @@
 | Virtual | Planning ahead | June 30, 2020 | Click [here](https://docs.google.com/document/d/1PInA6lvWt2kUdIKQCMMZLhlY4Th14UzVgL3c7KPD_Kw/edit) | None |
 | Virtual | [Show & Tell Speed Up](https://github.com/jmhatch/R-Shiny-Working-Group/tree/master/docs) | July 28, 2020 | Click [here](https://docs.google.com/document/d/1K0IJNPDjD6DpbsdMcr39MsyKtNt5PaOrAXvSWJmTSz8/edit?usp=sharing) | Click [here](https://jmhatch.github.io/R-Shiny-Working-Group/) |
 | Virtual | GitHub Q&A | August 11, 2020 | Click [here](https://docs.google.com/document/d/1M6gnGTfr3BlX5ResEdY4bKM2QuJ7bRhfkpDWoq2wlls/edit) | None |
+| Virtual | Combining Shiny & R Markdown for Interactive & Reproducible Analysis | August 25, 2020 | Click [here](https://docs.google.com/document/d/1TSozBIiBtVIDHnmfhlraBzVgLSAf_D6gqU1FvhYDXBU/edit?usp=sharing) | None |
