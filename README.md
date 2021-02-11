@@ -11,7 +11,7 @@
 | Virtual | [Show & Tell Speed Up](https://github.com/jmhatch/R-Shiny-Working-Group/tree/master/docs) | July 28, 2020 | Click [here](https://docs.google.com/document/d/1K0IJNPDjD6DpbsdMcr39MsyKtNt5PaOrAXvSWJmTSz8/edit?usp=sharing) | Click [here](https://jmhatch.github.io/R-Shiny-Working-Group/) | :heavy_check_mark: |
 | Virtual | GitHub Q&A | August 11, 2020 | Click [here](https://docs.google.com/document/d/1M6gnGTfr3BlX5ResEdY4bKM2QuJ7bRhfkpDWoq2wlls/edit) | None | :heavy_check_mark: |
 | Virtual | Combining Shiny & R Markdown for Interactive & Reproducible Analysis | August 25, 2020 | Click [here](https://docs.google.com/document/d/1TSozBIiBtVIDHnmfhlraBzVgLSAf_D6gqU1FvhYDXBU/edit?usp=sharing) | None | :heavy_check_mark: |
-| Virtual | Interactive Reporting & Dashboards in R Markdown | September 9, 2020 | Click [here](https://docs.google.com/document/d/1013MJ3TuAKqmRnX_xXW6InrjGO4NmE2AileBqjJV4hc/edit?usp=sharing) | None | :heavy_check_mark: |
+| Virtual | Interactive Reporting & Dashboards in R Markdown | September 10, 2020 | Click [here](https://docs.google.com/document/d/1013MJ3TuAKqmRnX_xXW6InrjGO4NmE2AileBqjJV4hc/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Shiny Server Pro Course Review | September 22, 2020 | Click [here](https://docs.google.com/document/d/1vVtsZUXLEpJUnZUtWLW5T0T6KT9LN0QGNO9W53TndUE/edit?usp=sharing) | None | :x: |
 | Virtual | Episode 10 | October 6, 2020 | Click [here](https://docs.google.com/document/d/1xCooRNNcrXZLUtPcS2hjToJFS9AS9VU_vJJhvly-xmw/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 11 | October 20, 2020 | Click [here](https://docs.google.com/document/d/1wT846zx4LffoebsOQ4EQQ6FTZUHgeILSQt5jyVQEE24/edit?usp=sharing) | None | :x: |
