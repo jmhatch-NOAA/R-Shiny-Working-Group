@@ -23,3 +23,4 @@
 | Virtual | Episode 16 | December 29, 2020 | Click [here](https://docs.google.com/document/d/1Hcse3q17kOul6waCpw2QLEMuongn6SAWwfYCQE_B2IY/edit?usp=sharing) | None | :x: |
 | Virtual | Episode 17 | January 26, 2021 | Click [here](https://docs.google.com/document/d/1OfSCbYIlcyRbFGk3hQVnVOOUzmNJSewyzEkseyjC9pg/edit?usp=sharing) | None | :x: |
 | Virtual | Episode 18 | February 9, 2021 | None | None | :heavy_check_mark: |
+| Virtual | Episode 19 | February 23, 2021 | Click [here](https://docs.google.com/document/d/19UoK9UEGiCOp9dSoSueWTtCtXYExXtgtjT4RPakXwpw/edit?usp=sharing) | None | :heavy_check_mark: |
