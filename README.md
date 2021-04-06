@@ -26,4 +26,4 @@
 | Virtual | Episode 19 | February 23, 2021 | Click [here](https://docs.google.com/document/d/19UoK9UEGiCOp9dSoSueWTtCtXYExXtgtjT4RPakXwpw/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | R Shiny COP Discussion | March 9, 2021 | Click [here](https://docs.google.com/document/d/1hVAninf63f1HLEZTmMH8lVzUBXozvMhKpt5gdb6dZMw/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 21 | March 23, 2021 | Click [here](https://docs.google.com/document/d/12sOH0fHpZKwI8-YKL9nCMpUChyYShnLeIKyvje2x7bA/edit?usp=sharing) | None | :heavy_check_mark: |
-
+| Virtual | Episode 22 | April 06, 2021 | Click [here](https://docs.google.com/document/d/1lSilFDfmV5XHr6e4k1spDwjukMpUMye6azScL6HNRMA/edit?usp=sharing) | None | :heavy_check_mark: |
