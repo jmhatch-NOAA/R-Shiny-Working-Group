@@ -29,3 +29,4 @@
 | Virtual | Episode 22 | April 06, 2021 | Click [here](https://docs.google.com/document/d/1lSilFDfmV5XHr6e4k1spDwjukMpUMye6azScL6HNRMA/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 23 | April 20, 2021 | Click [here](https://docs.google.com/document/d/1zT0X2Y8tWB6G1F6j0C1Iy16JNDaLGxHZzzbhyJqwLEA/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 24 | June 01, 2021 | Click [here](https://docs.google.com/document/d/1jS90vEt_d5bVzIi_fjsRVD-46W6Lkq1-IHXDZvdZYjs/edit?usp=sharing) | None | :heavy_check_mark: |
+| Virtual | Episode 25 | June 15, 2021 | Click [here](https://docs.google.com/document/d/1a1KoeQkLtskYDA6KOCZ6eHXYBYCyWA0AWdZVwgx186E/edit?usp=sharing) | None | :heavy_check_mark: |
