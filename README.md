@@ -32,3 +32,4 @@
 | Virtual | Episode 25 | June 15, 2021 | Click [here](https://docs.google.com/document/d/1a1KoeQkLtskYDA6KOCZ6eHXYBYCyWA0AWdZVwgx186E/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 26 | June 29, 2021 | Click [here](https://docs.google.com/document/d/1ce9zmuOhXXGjUHRPsQPBExxLZfOnYE1ju0nZ4SaPE-E/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 27 | July 13, 2021 | Click [here](https://docs.google.com/document/d/1WFuh_R_q53gXK9f1TmglmqJaBrsQ6XSteGistw1hzgw/edit?usp=sharing) | None | :heavy_check_mark: |
+| Virtual | GitHub Actions | July 27, 2021 | Click [here](https://docs.google.com/document/d/1qK5B9r9D96OM_SNfa66WRmjewEMl6fYQDj1H_bWL64w/edit?usp=sharing) | None | :heavy_check_mark: |
