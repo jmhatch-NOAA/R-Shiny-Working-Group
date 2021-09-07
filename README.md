@@ -35,4 +35,4 @@
 | Virtual | GitHub Actions | July 27, 2021 | Click [here](https://docs.google.com/document/d/1qK5B9r9D96OM_SNfa66WRmjewEMl6fYQDj1H_bWL64w/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Survey results, Landing page | August 10, 2021 | Click [here](https://docs.google.com/document/d/1TacIfsHK-9vLSjFL64mjGKwVKLg-5lhW6pNKXYK2W2Y/edit?usp=sharing) | None | :x: |
 | Virtual | Survey results, Landing page | August 24, 2021 | Click [here](https://docs.google.com/document/d/1p4VtRJlUhY3ymp5tnTnLUtOlLd6EOimgw3Yy5di__VI/edit?usp=sharing) | None | :heavy_check_mark: |
-| Virtual | Episode 31 | September 07, 2021 | Click [here]() | None | :heavy_check_mark: |
+| Virtual | Episode 31 | September 07, 2021 | Click [here](https://docs.google.com/document/d/1I9NWh1F01-4yA0yBUGp_n7ZOzSI0rE55afFwZ9OnKmM/edit?usp=sharing) | None | :heavy_check_mark: |
