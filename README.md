@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Virtual | Episode 1 | March 24, 2020 | Click [here](https://docs.google.com/document/d/1CJy5BSM_w-s4rmXuZalGSm_3QNkiwwS881OTVxwo098/edit?usp=sharing) | None | :x: |
 | Virtual | Shiny or R troubleshooting | April 21, 2020 | Click [here](https://docs.google.com/document/d/1NpUGqyQpoWO40qHu2KaA9QAo-7QXuYfZel3_OhtI60g/edit) | None | :heavy_check_mark: |
-| Virtual | Adventures in [`ggplot2`](https://ggplot2.tidyverse.org/) | May 5, 2020 | Click [here](https://docs.google.com/document/d/1tlTXNcBhpvJxZ5KbHkjlK6AUWQrIvvy6Q9iR8AaNuLo/edit) | Click [here](https://github.com/jmhatch/R-Shiny-Working-Group/tree/master/materials/ggplot2_example) | :heavy_check_mark: |
+| Virtual | Adventures in [`ggplot2`](https://ggplot2.tidyverse.org/) | May 5, 2020 | Click [here](https://docs.google.com/document/d/1tlTXNcBhpvJxZ5KbHkjlK6AUWQrIvvy6Q9iR8AaNuLo/edit) | Click [here](https://github.com/jmhatch-NOAA/R-Shiny-Working-Group/tree/master/materials/ggplot2_example) | :heavy_check_mark: |
 | Virtual | [`Bookdown`](https://github.com/rstudio/bookdown) | June 2, 2020 | Click [here](https://docs.google.com/document/d/11dR883iMCMorqlZX-uBKErEhLtbUmyY2x2lHBroCZl4/edit) | None | :heavy_check_mark: |
 | Virtual | Planning ahead | June 30, 2020 | Click [here](https://docs.google.com/document/d/1PInA6lvWt2kUdIKQCMMZLhlY4Th14UzVgL3c7KPD_Kw/edit) | None | :heavy_check_mark: |
 | Virtual | Episode 6 | July 14, 2020 | Click [here](https://docs.google.com/document/d/1aDg2TfOy5bTsk4LJ3rkTgbKPUqpJypvdmzaqTtNAvvk/edit?usp=sharing) | None | :heavy_check_mark: |
