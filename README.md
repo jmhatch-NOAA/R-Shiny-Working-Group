@@ -39,10 +39,10 @@
 | Virtual | Episode 32 | September 21, 2021 | Click [here](https://docs.google.com/document/d/1cUhez8WXy133i95iI04_ykFhBAhtOdS58lA3dVUK70M/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Survey presentation | October 05, 2021 | Click [here](https://docs.google.com/document/d/1Lf-ewtk25Rz_DMWYpx9sWD2GN6E8EyUanuTylPyItOc/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 34 | October 19, 2021 | Click [here](https://docs.google.com/document/d/1IEkJ036lJK9fXGmPaj_TYR29e9HrvB2qP0HcKVEKwpE/edit?usp=sharing) | None | :heavy_check_mark: |
-| Virtual | Episode 35 | November 02, 2021 | None | None | :x: |
+| Virtual | Episode 35 | November 02, 2021 | None | None | :heavy_check_mark: |
 | Virtual | Episode 36 | November 16, 2021 | None | None | :x: |
-| Virtual | Episode 37 | November 30, 2021 | None | None | :x: |
-| Virtual | Episode 38 | January 11, 2022 | Click [here](https://docs.google.com/document/d/1PGlTZzkhH39u6Ub4dPng-kzEl4wzEhhp6ZndiFZro4c/edit?usp=sharing) | None | :x: |
+| Virtual | Episode 37 | November 30, 2021 | None | None | :heavy_check_mark: |
+| Virtual | Episode 38 | January 11, 2022 | Click [here](https://docs.google.com/document/d/1PGlTZzkhH39u6Ub4dPng-kzEl4wzEhhp6ZndiFZro4c/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 39 | January 25, 2022 | None | None | :x: |
 | Virtual | Episode 40 | February 08, 2022 | Click [here](https://docs.google.com/document/d/1IEkJ036lJK9fXGmPaj_TYR29e9HrvB2qP0HcKVEKwpE/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 41 | February 22, 2022 | Click [here](https://docs.google.com/document/d/1v-uthvRzkNroVLoGq6K22tDfIjWGnbahZqYc6tdtCGM/edit?usp=sharing) | None | :heavy_check_mark: |
