@@ -60,3 +60,4 @@
 | Virtual | NEFSCspatial Walkthrough | November 15, 2022 | Click [here](https://docs.google.com/document/d/1JIpP5Y-h5yrnx2hlisYvCox1ZRBdrkVq-iJADKEoO3k/edit?usp=sharing) | None | :heavy_check_mark: |
 | Virtual | Episode 53 | January 24, 2023 | Click [here](https://docs.google.com/document/d/1jmX4N9hFeYYqL30nN0gVrwKezgQbi6HW0Rpo9pYi17A/edit?usp=share_link) | None | :heavy_check_mark: |
 | Virtual | {targets} | February 28, 2023 | Click [here](https://docs.google.com/document/d/12VFV-csMp6An1m_RoO59HPqLAzi0gjJL0tydAkdo75Y/edit?usp=share_link) | Click [here](https://github.com/kimberly-bastille/ecopull/blob/main/_targets.R) | :heavy_check_mark: |
+| Virtual | Episode 55 | March 28, 2023 | Click [here](https://docs.google.com/document/d/1xI0Z28P3pH3cNXcbD4nuMPAC08_ke7eBEFDY10LauKs/edit?usp=share_link) | None | :heavy_check_mark: | 
