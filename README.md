@@ -61,3 +61,5 @@
 | Virtual | Episode 53 | January 24, 2023 | Click [here](https://docs.google.com/document/d/1jmX4N9hFeYYqL30nN0gVrwKezgQbi6HW0Rpo9pYi17A/edit?usp=share_link) | None | :heavy_check_mark: |
 | Virtual | {targets} | February 28, 2023 | Click [here](https://docs.google.com/document/d/12VFV-csMp6An1m_RoO59HPqLAzi0gjJL0tydAkdo75Y/edit?usp=share_link) | Click [here](https://github.com/kimberly-bastille/ecopull/blob/main/_targets.R) | :heavy_check_mark: |
 | Virtual | Episode 55 | March 28, 2023 | Click [here](https://docs.google.com/document/d/1xI0Z28P3pH3cNXcbD4nuMPAC08_ke7eBEFDY10LauKs/edit?usp=share_link) | None | :heavy_check_mark: | 
+| Virtual | Episode 56 | April 25, 2023  | None | None | :heavy_check_mark: | 
+| Virtual | Episode 57 | May 30, 2023 | Click [here](https://docs.google.com/document/d/1B_AOeqyn-Jj3-HJ69NQyEtmYzw9B117Br5r07F8RPRE/edit?usp=sharing) | None | :x: | 
